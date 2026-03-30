@@ -1,0 +1,17 @@
+✅ What is SAP BASIS?
+Technical foundation of SAP systems
+Acts as a bridge between SAP functional & technical side
+Responsible for installation, configuration, maintenance
+✅ SAP Architecture (3-Tier)
+Presentation Layer → SAP GUI (user interface)
+Application Layer → Processes business logic
+Database Layer → Stores data
+✅ System Landscape
+DEV → Development
+QAS → Testing
+PRD → Production
+✅ Important Concepts
+Client (000, 100, etc.)
+Instance
+SID (System ID)
+Kernel
