@@ -1,0 +1,18 @@
+🔹 BIT 3: System Maintenance & Performance
+4
+✅ Backup & Recovery
+DB12 / DB13 → Database backup scheduling
+Ensure data safety & recovery plan
+✅ Performance Monitoring
+ST03N → Workload analysis
+ST06 → OS-level monitoring
+ST04 → DB performance
+✅ System Start/Stop
+SAP MMC / sapcontrol
+Commands:
+startsap
+stopsap
+✅ Patch & Upgrade
+Kernel upgrade
+Support packages
+SAP Notes implementation
