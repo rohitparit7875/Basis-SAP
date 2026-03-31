@@ -1,0 +1,15 @@
+🔹 1. What are Cloud SQL Technologies?
+4
+
+Cloud SQL = Managed relational databases (RDBMS) hosted on cloud platforms
+
+👉 Instead of installing DB manually, cloud providers handle:
+
+Patching
+Backup
+Scaling
+High availability
+✅ Examples:
+Amazon RDS
+Azure SQL Database
+Google Cloud SQL
