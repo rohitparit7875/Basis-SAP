@@ -1,0 +1,13 @@
+🔹 3. Key Features You Must Know (Important for Interviews)
+🔸 High Availability (HA)
+Multi-AZ deployments
+Automatic failover
+🔸 Backup & Recovery
+Automated backups
+Point-in-time recovery
+🔸 Scalability
+Vertical scaling (increase CPU/RAM)
+Horizontal (read replicas)
+🔸 Security
+Encryption (at rest & in transit)
+IAM / RBAC access control
