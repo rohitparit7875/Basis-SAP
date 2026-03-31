@@ -1,0 +1,18 @@
+🔹 2. Types of SQL Databases in Cloud
+✅ Traditional RDBMS (Lift & Shift)
+MySQL
+PostgreSQL
+SQL Server
+Oracle
+
+👉 Used when migrating on-prem SAP / apps to cloud
+
+✅ Cloud-Native Databases
+Amazon Aurora
+Azure SQL Managed Instance
+
+👉 Benefits:
+
+Auto scaling
+High performance
+Less admin effort
