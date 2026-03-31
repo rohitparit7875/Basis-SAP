@@ -1,0 +1,17 @@
+🔹 4. Important Commands / Skills
+✅ Basic SQL (Must Know)
+SELECT * FROM users;
+INSERT INTO table VALUES();
+UPDATE table SET column=value;
+DELETE FROM table;
+✅ Admin-Level Tasks
+Create DB instance
+Monitor CPU / memory
+Optimize queries
+Indexing
+
+👉 Tools:
+
+AWS Console / CLI
+Azure Portal
+GCP Console
